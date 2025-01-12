@@ -21,4 +21,9 @@
 - SonarLint, Java > 22
 
 - Run Local and on Selenoid Integration.
-- 
+
+![img.png](img.png)
+
+mvn test -Dsurefire.suiteXmlFiles=testng.xml
+
+![img_1.png](img_1.png)

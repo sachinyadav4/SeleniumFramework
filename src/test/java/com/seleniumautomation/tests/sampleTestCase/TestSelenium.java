@@ -1,4 +1,4 @@
-package com.seleniumautomation.com.tests;
+package com.seleniumautomation.tests.sampleTestCase;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
